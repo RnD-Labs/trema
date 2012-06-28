@@ -27,8 +27,12 @@ Getting Started
 2.Install Trema at the command prompt:
 
     $ sudo gem install trema
+    
+3.Build Trema for the first time:
 
-3.Follow the guidelines to start developing your OpenFlow controller. You may find the following resources handy:
+    $ ./build.rb
+
+4.Follow the guidelines to start developing your OpenFlow controller. You may find the following resources handy:
 
 * The [Getting Started with Trema](https://github.com/trema/trema/wiki/Quick-start).
 * The [Trema in 10 Minutes Tutorial](http://trema-10min.heroku.com/).
